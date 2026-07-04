@@ -1,0 +1,132 @@
+Day,Date,Category,Activity,Start,End,Duration/Notes
+D1,06/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D1,06/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D1,06/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D1,06/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D1,06/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D1,06/07,Training,Icebreaker & Team Formation,09:00 AM,1:00 PM,
+D1,06/07,Training,"Drishtee: Mission, Journey & Organizational Structure",02:30 PM,6:30 PM,
+D2,07/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D2,07/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D2,07/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D2,07/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D2,07/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D2,07/07,Training,"Drishtee: Mission, Journey & Organizational Structure (PPT to be created)",09:00 AM,1:00 PM,
+D2,07/07,Training,"HR, Compliance & Drishtee Systems (Employee Wellbeing)",02:30 PM,6:30 PM,
+D3,08/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D3,08/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D3,08/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D3,08/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D3,08/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D3,08/07,Training,Decoding the Rural Village Economy,09:00 AM,1:00 PM,
+D3,08/07,Training,Field Visit: Village Observation & PRA Practice (group is created - also facilitators are also identified) community engagement,02:30 PM,6:30 PM,
+D4,09/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D4,09/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D4,09/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D4,09/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D4,09/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D4,09/07,Training,Discussion on Village Observation & PRA Practice connecting with case study; Swavalamban Integration,09:00 AM,1:00 PM,
+D4,09/07,Training,"SWSM: Structure, Significance & Community Collectiveness",02:30 PM,6:30 PM,
+D5,10/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D5,10/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D5,10/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D5,10/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D5,10/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D5,10/07,Training,"Field Visit: Focus on petal in a Vatika, Vaani, Vaibhavi & Mitra - and DDU understanding",09:00 AM,1:00 PM,
+D5,10/07,Training,VDP,02:30 PM,6:30 PM,
+D6,11/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D6,11/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D6,11/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D6,11/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D6,11/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D6,11/07,Training,"Livelihood Points (LP): The Internal Currency; Samriddhi Kosh, Resource Management",09:00 AM,1:00 PM,
+D6,11/07,Training,"CBS: Community Balance Sheet — Purpose, Structure & Fellow's Role; Samrudhi Kosh - Register",02:30 PM,6:30 PM,
+D7,12/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D7,12/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D7,12/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D7,12/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D7,12/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D7,12/07,Training,"CBS: Community Balance Sheet, VDP and LP Understanding",09:00 AM,1:00 PM,
+D7,12/07,Training,MIRI Application: Full Walkthrough & Data Entry Practice,02:30 PM,6:30 PM,
+D8,13/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D8,13/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D8,13/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D8,13/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D8,13/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D8,13/07,Training,Business Planning,09:00 AM,1:00 PM,
+D8,13/07,Training,Business Planning,02:30 PM,6:30 PM,
+D9,14/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D9,14/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D9,14/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D9,14/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D9,14/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D9,14/07,Training,Project Management for the Vidushi Fellow,9:30 AM,1:00 PM,
+D9,14/07,Training,Project Management for the Vidushi Fellow (Continue),02:30 PM,06:00 PM,
+D10,15/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D10,15/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D10,15/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D10,15/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D10,15/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D10,15/07,Training,The DDU Framework: Field Visit,9:30 AM,1:00 PM,
+D10,15/07,Training,"Market, Supply Chain & Production Unit",2:00 PM,06:30 PM,
+D11,16/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D11,16/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D11,16/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D11,16/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D11,16/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D11,16/07,Training,Field Visit,09:00 AM,1:00 PM,
+D11,16/07,Training,"Market, Supply Chain & Production Unit",2:30 PM,06:00 PM,
+D12,17/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D12,17/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D12,17/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D12,17/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D12,17/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D12,17/07,Training,Increasing Vaibhavi Income Level & What happens when things may go wrong?,09:00 AM,1:00 PM,
+D12,17/07,Training,SWSM Presentation of a DDU Proposal — Simulation,02:30 PM,06:00 PM,
+D13,18/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D13,18/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D13,18/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D13,18/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D13,18/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D13,18/07,Training,"Vaibhavi & Sakhya — Identification, Formation & Governance (Call Vaibhavi group during session)",Full Day,,
+D14,19/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D14,19/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D14,19/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D14,19/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D14,19/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D14,19/07,Training,Project Management for the Vidushi Fellow,9:30 AM,1:00 PM,
+D14,19/07,Training,Project Management for the Vidushi Fellow,2:30 PM,6:00 PM,
+D15,20/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D15,20/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D15,20/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D15,20/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D15,20/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D15,20/07,Training,Full Walkthrough Practice: Dashboard Understanding,09:00 AM,11:00 AM,
+D15,20/07,Training,Rural Housing and Livelihood,11:15 AM,1:00 PM,
+D15,20/07,Training,6 Months Planning & Team Planning,2:30 PM,6:00 PM,
+D16-D19,21/07-24/07,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D16-D19,21/07-24/07,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D16-D19,21/07-24/07,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D16-D19,21/07-24/07,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D16-D19,21/07-24/07,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D16-D19,21/07-24/07,Training,Capstone Implementation,,,
+D19,24/07/2026,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D19,24/07/2026,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D19,24/07/2026,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D19,24/07/2026,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D19,24/07/2026,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D19,24/07/2026,Training,DDU Presentation,2:30 PM,6:00 PM,
+D20,25/07/2026,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D20,25/07/2026,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D20,25/07/2026,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D20,25/07/2026,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D20,25/07/2026,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D20,25/07/2026,Training,DDU Presentation,9:30 AM,1:00 PM,
+D20,25/07/2026,Training,DDU Presentation,2:30 PM,6:00 PM,
+D21,26/07/2026,Meal/Break,Breakfast,08:30 AM,09:00 AM,Standard schedule
+D21,26/07/2026,Meal/Break,Morning Session Break,~10:45 AM,15 min,Standard schedule
+D21,26/07/2026,Meal/Break,Lunch,01:00 PM,02:00 PM,Standard schedule
+D21,26/07/2026,Meal/Break,Tea Break,04:00 PM,04:15 PM,Standard schedule
+D21,26/07/2026,Meal/Break,Dinner,08:30 PM,10:00 PM,Standard schedule
+D21,26/07/2026,Training,DDU Presentation,9:30 AM,1:00 PM,
+D21,26/07/2026,Training,DDU Presentation,2:30 PM,6:00 PM,
