@@ -18,6 +18,9 @@ import urllib.request
 
 CSV_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schedule.csv")
 SCHEDULE_YEAR = 2026
+SCHEDULE_START = dt.date(2026, 7, 6)   # D1
+SCHEDULE_END = dt.date(2026, 7, 26)    # D21
+TOTAL_DAYS = (SCHEDULE_END - SCHEDULE_START).days + 1  # 21
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 
 
@@ -106,6 +109,16 @@ def format_hm(hm):
     return dt.time(hm[0], hm[1]).strftime("%I:%M %p").lstrip("0")
 
 
+def day_header(d: dt.date) -> str:
+    """Returns e.g. '📅 Monday, 06 Jul 2026 · Day 1/21'."""
+    day_num = (d - SCHEDULE_START).days + 1
+    return f"📅 {d.strftime('%A, %d %b %Y')} · Day {day_num}/{TOTAL_DAYS}"
+
+
+def escape_html(s: str) -> str:
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def main():
     token = os.environ.get("TELEGRAM_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
@@ -124,21 +137,27 @@ def main():
         if ev["date"] != today:
             continue
 
+        activity = escape_html(ev["activity"])
+        category = escape_html(ev["category"])
+        header = day_header(ev["date"])
+
         if ev["start"] == now_hm:
             end_str = f" — ends {format_hm(ev['end'])}" if ev["end"] else ""
             msg = (
-                f"🔔 <b>Starting now</b> ({format_hm(ev['start'])})\n"
-                f"{ev['activity']}\n"
-                f"<i>{ev['category']}</i>{end_str}"
+                f"🔔 <b>Starting now</b> — {format_hm(ev['start'])}\n"
+                f"{header}\n\n"
+                f"<b>{activity}</b>\n"
+                f"<i>{category}</i>{end_str}"
             )
             send_telegram(token, chat_id, msg)
             matches += 1
 
         if ev["end"] == now_hm:
             msg = (
-                f"✅ <b>Ending now</b> ({format_hm(ev['end'])})\n"
-                f"{ev['activity']}\n"
-                f"<i>{ev['category']}</i>"
+                f"✅ <b>Ending now</b> — {format_hm(ev['end'])}\n"
+                f"{header}\n\n"
+                f"<b>{activity}</b>\n"
+                f"<i>{category}</i>"
             )
             send_telegram(token, chat_id, msg)
             matches += 1
